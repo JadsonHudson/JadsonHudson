@@ -15,7 +15,7 @@
 
 Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão and JavaScript, ReactJS at RocketSeat  📱💻,
 
-  <img align="right" width="100%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" width="60%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -29,10 +29,10 @@ Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, curr
 
 ### My latest projects
 
-<a href="https://github.com/Mendaccium/GitExplorer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JadsonHudson&repo=Be-The-Hero" alt="GithubExplorer" />
+<a href="https://github.com/JadsonHudson/Be-The-Hero">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JadsonHudson&repo=Be-The-Hero" alt="Be-The-Hero" />
 </a>
-<a href="https://github.com/Mendaccium/Go-Finances-Web">
+<a href="https://github.com/JadsonHudson/Ecoleta">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JadsonHudson&repo=Ecoleta" alt="Ecoleta" />
 </a>
 
