@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jadson
+### Olá! 👋, Eu sou o Jadson Hudson
 
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,16 +14,16 @@
 <br />
 
 
-Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão and JavaScript, ReactJS at RocketSeat  📱💻,
+Eu sou o **Jadson Hudson** um **Front-End Developer** 🚀 do Brasil, atualmente, eu sou acadêmico do curso de Bacharel em ciência da computação no Instituto Federal do Maranhão e aluno da RocketSeat. Na rocketseat, estudo as trilhas de ReactJS, React Native e NodeJS. 📱💻,
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Falando um poucos sobre coisas pessoais:**
 
-- 🌱 I'm currently learning Web Applications for Businesses and Enterprises 💰; 
-- 💼 I’m pursuing a Bachelor's degree in Computer Science;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via jadson.hudson77@gmail.com to reach me.
+- 🌱 Eu estudo aplicações web para empresas 💰; 
+- 💼 Estou cursando bacharelado em Ciência da Computação;
+- 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar;
+- 📫 Envie um e-mail para jadson.hudson77@gmail.com para entrar em contato comigo.
 
 <br />
 <br />
@@ -35,7 +35,7 @@ Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, curr
 <br />
 <br />
 
-### My latest projects
+### Meus últimos projetos
 
 <a href="https://github.com/JadsonHudson/Be-The-Hero">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JadsonHudson&repo=Be-The-Hero" alt="Be-The-Hero" />
@@ -51,14 +51,19 @@ Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, curr
 <br />
 <br />
 
-**Languages and Tools:**  
+**Linguagens e ferramentas:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -67,4 +72,4 @@ Hi there, I'm **Jadson Hudson** a **Front-End Developer** 🚀 from Brasil, curr
 
 ![JadsonHudson github stats](https://github-readme-stats.vercel.app/api?username=JadsonHudson&show_icons=true&hide_border=true)
 
-⭐️ Thanks for the visit!
+⭐️ Obrigado pela visita!
