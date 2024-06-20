@@ -20,7 +20,7 @@ Eu sou o **Jadson Hudson** um **Front-End Developer** 🚀 do Brasil, atualmente
 **Falando um poucos sobre coisas pessoais:**
 
 - 🌱 Eu estudo aplicações web para empresas 💰; 
-- 💼 Estou cursando bacharelado em Ciência da Computação;
+- 💼 Sou Bacharel em Ciência da Computação;
 - 💬 Pergunte-me sobre qualquer coisa, estou feliz em responder;
 - 📫 Envie um e-mail para jadson.hudson77@gmail.com para entrar em contato comigo.
 
