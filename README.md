@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Eu sou o **Jadson Hudson** um **Front-End Developer** 🚀 do Brasil, atualmente, eu sou acadêmico do curso de Bacharel em ciência da computação no Instituto Federal do Maranhão e aluno da RocketSeat. Na rocketseat, estudo as trilhas de ReactJS, React Native e NodeJS. 📱💻,
+Eu sou o **Jadson Hudson** um **Front-End Developer** 🚀 do Brasil, atualmente, eu sou Bacharel em ciência da computação no Instituto Federal do Maranhão e aluno da RocketSeat. Na rocketseat, estudo as trilhas de ReactJS, React Native e NodeJS. 📱💻,
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
